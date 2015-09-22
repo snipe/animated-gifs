@@ -22,12 +22,12 @@ Enjoy!
 - `adorbs`: Misc cuteness that I couldn't classify in another way
 - `angry-frustrated`: This will be broken down into nuanced sub-categories soon, since it's the directory with the most gifs right now
 - `badass-nailed-it`: People not failing at awesome shit
-- `bored-tired-depressed`: These are grouped together because they can often be used interchangeably 
+- `bored-tired-depressed`: These are grouped together because they can often be used interchangeably
 
 -----
 
 ### About Me
 
-Hi, I'm snipe. I write free, open source software for a living for my company, Grokability, Inc. I wrote [Snipe-IT](https://snipeitapp.com) (a FOSS IT asset management system), I'm the CTO and co-founder of [Mass Mosaic](https://massmosaic.com), and I created the [Downworthy browser plugin](http://downworthy.snipe.net). I also made [Nofuckstogive.today](http://nofuckstogove.today), which you might enjoy.
+Hi, I'm snipe. I write free, open source software for a living for my company, Grokability, Inc. I wrote [Snipe-IT](https://snipeitapp.com) (a FOSS IT asset management system), I'm the CTO and co-founder of [Mass Mosaic](https://massmosaic.com), and I created the [Downworthy browser plugin](http://downworthy.snipe.net). I also made [Nofuckstogive.today](http://nofuckstogive.today), which you might enjoy.
 
 You can find me on the Twitters [@snipeyhead](https://twitter.com/snipeyhead).
