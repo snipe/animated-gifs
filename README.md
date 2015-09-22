@@ -9,7 +9,7 @@ I'll be working on categorizing the ones that are not currently categorized over
 
 The copyrights to the actual images belong to their respective intellectual property copyright holders, blah blah blah. I have collected these over a period of years, so I couldn't tell you where I found most of them, and I'm reasonably certain the folks I nicked them from couldn't tell you where they originally found them either. Internet, amirite?
 
-If you dig it and want to buy me a beer or a cup of coffee, you can do so with [https://www.changetip.com/tipme/snipe](Changetip). You don't have to, but it's always appreciated.
+If you dig it and want to buy me a beer or a cup of coffee, you can do so with [Changetip](https://www.changetip.com/tipme/snipe). You don't have to, but it's always appreciated.
 
 Enjoy!
 
