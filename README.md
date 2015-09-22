@@ -13,6 +13,8 @@ If you dig it and want to buy me a beer or a cup of coffee, you can do so with [
 
 You're welcome to add to this repo, but understand that I'm very picky. If I don't accept your pull request because your gif isn't punchy enough, don't be sad. This isn't a collection of all gifs - this is a collection of gifs that I found to be particularly funny/biting/weird/useful. It's nothing personal.
 
+There is no porn in this repo, although there may be hilarious depictions of sex toys or other things I find funny. Please don't submit a PR with porn. The internet has enough of that on its own, it doesn't need my help. 
+
 Enjoy!
 
 -----
